@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{92B1BE6C-B85C-44DD-9178-90BEB5811859}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CVS/Tests.cs">
+    <Files>
+      <File FileName="CVS/AppInitializer.cs" Line="31" Column="18" />
+      <File FileName="CVS/Tests.cs" Line="13" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CVS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
