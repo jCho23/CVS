@@ -1,14 +1,14 @@
 # CVS
 CVS Android Test Automation Scripts
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
